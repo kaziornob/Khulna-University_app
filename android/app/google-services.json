@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057048482220",
+    "project_id": "ornob1",
+    "storage_bucket": "ornob1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057048482220:android:1bfe4bc3a28c132fb5aa09",
+        "android_client_info": {
+          "package_name": "com.example.ku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057048482220-app6u93i5p9vqm938i077ndd500ud90f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzwC1NnRSRPCIGq4C2bIri0jfYEXb48kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057048482220-app6u93i5p9vqm938i077ndd500ud90f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
